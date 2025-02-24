@@ -1,12 +1,12 @@
-/* Estilo Global */
-* {
+  /* Estilo Global */
+  * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+  }
 
-/* Estilo Corpo */
-.banner {
+  /* Estilo Corpo */
+  .banner {
     width: 100%;
     height: 100vh;
   
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-.banner video {
+  .banner video {
     position: absolute;
     z-index: -1;
     width: 100%;
